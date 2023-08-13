@@ -40,9 +40,9 @@
 			<div class="flex flex-col gap-4 w-full lg:w-2/3">
 				<h2 class="text-3xl font-semibold">Why StoreBuddy?</h2>
 				<p class="text-base">
-					Coupons are an old business practice that is still being used today. However, the
-					landsacpe is a little diferent now. With the growing number of online retailers, coupons,
-					vouchers, and promo codes are targetting are better suited for the new online businesses.
+					Coupons are not new. However, the landscape is a little diferent now. With the growing
+					number of online retailers, modern coupons and vouchers are geared more towards businesses
+					that operate digitally.
 				</p>
 
 				<p>

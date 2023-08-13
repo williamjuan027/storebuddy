@@ -1,22 +1,30 @@
-# create-svelte
+# Store Buddy
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+> Submission for Supabase Launch 8 Hackathon
 
-## Creating a project
+![Cover Image](static/cover.jpg)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Concept
+
+_Create digital coupons in minutes and use them in your physical stores._
+
+Coupons are not new. However, the landscape is a little diferent now. With the growing number of online retailers, modern coupons and vouchers are geared more towards businesses that operate digitally.
+
+What about physical business? Most are still using paper-based coupons for their promotions.
+
+**StoreBuddy** aims to bring digital coupons to brick-and-mortar businesses. A simple solution that you can integrate to your business's operations.
+
+[Watch the demo](https://youtu.be/rwd2YWMGjPg)
+
+## Install dependencies
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+npm i
 ```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Start a development server by running:
 
 ```bash
 npm run dev
@@ -34,5 +42,3 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
